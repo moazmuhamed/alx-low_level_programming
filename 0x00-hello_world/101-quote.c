@@ -5,7 +5,7 @@
  *
  *desceiption A C program to simple operating system
  *
- *return 1 (success)
+ *return 1 (not success)
  *
  */
 int main(void)
