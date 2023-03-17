@@ -3,6 +3,8 @@
 /**
  * main - entry point.
  *
+ *desceiption A C program to simple operating system
+ *
  *return 1 (success)
  *
  */
