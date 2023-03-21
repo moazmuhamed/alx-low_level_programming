@@ -1,6 +1,7 @@
 #include "main.h"
 	/**
 	 * main - print _putchar
+	 * Description: 'the program's description'
 	 * is written by mbah
 	 * Return: 0
 	 */
