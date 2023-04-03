@@ -1,3 +1,4 @@
+
 #include "main.h"
 /**
  * _memset - fill a block of memory with a value
@@ -9,12 +10,12 @@
  */
 char *_memset(char *s, char b, unsigned int n)
 {
-	unsigned  int m;
+	int m = 0;
 
-	for ( m = 0; > 0; m++,n--)
+	for (; n > 0; m++)
 	{
 		s[m] = b;
-	
+		n--;
 	}
 	return (s);
 }
