@@ -1,0 +1,14 @@
+echo "please enter first number "
+read n1
+echo "please enter second number "
+read n2
+if [ $n1 > 0 ]
+then
+echo "number is minuce "
+
+fi
+if [ n2 > 0 ] 
+then
+echo "number 2 is minuce "
+exit  
+fi

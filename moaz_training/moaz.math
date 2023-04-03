@@ -1,0 +1,9 @@
+echo "please put num1"
+read n1
+echo "please put num2"
+read n2
+echo "+:" `expr $n1 + $n2`
+echo "-:" `expr $n1 - $n2`
+echo "/:" `expr $n1 / $n2`
+echo "\*:" `expr $n1 \* $n2`
+

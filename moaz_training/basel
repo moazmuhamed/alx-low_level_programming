@@ -1,0 +1,10 @@
+
+
+x=$n1
+y=$n2
+
+
+echo "+:" `expr $n1 + $n2`
+echo "-:" `expr $n1 - $n2`
+echo "/:" `expr $n1 / $n2`
+echo "\*:" `expr $n1 \* $n2`
