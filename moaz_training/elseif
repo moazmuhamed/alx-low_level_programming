@@ -1,0 +1,9 @@
+echo "please enter a number"
+read number
+if [ $number > 0 ]
+then 
+echo "the ab is :" `expr $number \* -1`
+elif [ $number > 0 ]
+then
+echo "the ab is :" $number 
+fi
