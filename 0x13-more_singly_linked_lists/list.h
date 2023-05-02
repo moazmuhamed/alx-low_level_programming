@@ -8,12 +8,12 @@
 
 
 /**
- * @next: points to next node
- *
- * Description: singly linked list node structure
+* @next: points to next node
+*
+* Description: singly linked list node structure
 * for  project
 * struct listint_s - singly linked list
- * @n: int
+* @n: int
 */
 typedef struct listint_s
 {
