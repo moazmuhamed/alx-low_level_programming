@@ -1,7 +1,7 @@
 #include <stioh.h>
 
 /**
- * _puts_recursion function like puts()
+ *  * _puts_recursion - function like puts();
  * @m: input
  * return 0 success
  */
