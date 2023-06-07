@@ -2,15 +2,15 @@
 
 /**
  *  * _puts_recursion - function like puts();
- * @m: input
+ * @s: input
  * return 0 success
  */
-void _puts_recursion(char *m)
+void _puts_recursion(char *s)
 {
-	if (*m)
+	if (*s)
 {
-	putchar(*m);
-	_puts_recursion(m + 1);
+	putchar(*s);
+	_puts_recursion(s + 1);
 }
 else
 _putchar('\n');
